@@ -1,5 +1,6 @@
 # Chrome-ex-vue-Demo
 一个基于Vue.js的Chrome扩展开发模板，框架已搭好，直接编写功能即可。（由于在学习webpack基础所以并没有使用vue-cli直接生成）
+### 演示
 ![](./demo.png)
 ### 目录结构
 
