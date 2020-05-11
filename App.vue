@@ -1,8 +1,7 @@
 <template>
     <div>
-        <img src="https://i0.hdslb.com/bfs/archive/6d2e467f4d09c98a245d2e09c68a3714acfab669.jpg@336w_190h.webp" alt="">
         <span>
-            hello Wrold
+            Hello，这是使用Vue.js开发的Chrome拓展！<br><a href="https://github.com/Lichun0529/Chrome-ex-vue-Demo" target="_blank">如果有帮到你请给我个star，谢谢！</a>
         </span>
     </div>
 </template>
@@ -15,8 +14,15 @@
 </script>
 <style lang="less" scoped>
     div{
+        font-size: 20px;
+        width: 500px;
+        height: 300px;
+        text-align: center;
         span{
-            color: deeppink;
+            color: black;
+            a{
+                color:chocolate;
+            }
         }
     }
 </style>

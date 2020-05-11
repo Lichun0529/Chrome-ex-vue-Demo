@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "SearchMaster",
+    "name": "我的第一个Chrome扩展",
     "version": "1.0",
     "description": "我的第一个Chrome扩展",
     "icons": {
@@ -13,8 +13,8 @@
             "19": "images/icon19.png",
             "38": "images/icon38.png"
         },
-        "default_title": "SearchMaster",
+        "default_title": "我的第一个Chrome扩展",
         "default_popup": "index.html"
     },
-    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'" //使用vue开发配置
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'" //使用vue开发必须添加此配置，详见README中注意事项
 }
