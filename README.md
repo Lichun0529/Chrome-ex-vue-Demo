@@ -62,3 +62,5 @@
 + [Chrome扩展官方文档](https://developer.chrome.com/extensions)
 + [Vue.js官方文档](https://cn.vuejs.org/index.html)
 + [使用Vue.js开发的扩展案例](https://github.com/lavyun/Easy-todo)
+### 最后
+如果有帮到你请给我个star，谢谢！
